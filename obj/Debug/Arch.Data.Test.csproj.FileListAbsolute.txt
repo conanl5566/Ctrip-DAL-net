@@ -1,0 +1,12 @@
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.Test.exe.config
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Config\Dal.config
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.Test.exe
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.Test.pdb
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.MySqlProvider.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\MySql.Data.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\obj\Debug\Arch.Data.Test.csprojResolveAssemblyReference.cache
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\obj\Debug\Arch.Data.Test.exe
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\obj\Debug\Arch.Data.Test.pdb
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.MySqlProvider.pdb
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.pdb

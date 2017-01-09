@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arch.Data.Test", "Arch.Data.Test.csproj", "{423E49E9-7650-429C-8B98-7A6512D0FFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arch.Data", "Arch.Data\Arch.Data.csproj", "{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arch.Data.MySqlProvider", "Arch.Data.MySqlProvider\Arch.Data.MySqlProvider.csproj", "{868C7789-2FF7-4DD0-8DF2-F0FC81236039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		FlightRelease|Any CPU = FlightRelease|Any CPU
+		JPRelease|Any CPU = JPRelease|Any CPU
+		Performance|Any CPU = Performance|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.FlightRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.FlightRelease|Any CPU.Build.0 = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.JPRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.JPRelease|Any CPU.Build.0 = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.Performance|Any CPU.ActiveCfg = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.Performance|Any CPU.Build.0 = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423E49E9-7650-429C-8B98-7A6512D0FFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.FlightRelease|Any CPU.ActiveCfg = FlightRelease|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.FlightRelease|Any CPU.Build.0 = FlightRelease|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.JPRelease|Any CPU.ActiveCfg = JPRelease|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.JPRelease|Any CPU.Build.0 = JPRelease|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.Performance|Any CPU.ActiveCfg = Performance|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.Performance|Any CPU.Build.0 = Performance|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97CD6E2-93E7-4E80-8DD8-8A2F7B6F71D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.FlightRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.FlightRelease|Any CPU.Build.0 = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.JPRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.JPRelease|Any CPU.Build.0 = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.Performance|Any CPU.ActiveCfg = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.Performance|Any CPU.Build.0 = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868C7789-2FF7-4DD0-8DF2-F0FC81236039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

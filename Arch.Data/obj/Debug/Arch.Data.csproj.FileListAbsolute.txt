@@ -1,0 +1,14 @@
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\bin\Debug\Arch.Data.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\bin\Debug\Arch.Data.pdb
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\obj\Debug\Arch.Data.csprojResolveAssemblyReference.cache
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\obj\Debug\Arch.Data.Properties.Resources.resources
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\obj\Debug\Arch.Data.csproj.GenerateResource.Cache
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\obj\Debug\Arch.Data.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\Arch.Data\Arch.Data\obj\Debug\Arch.Data.pdb
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\bin\Debug\Arch.Data.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\bin\Debug\Arch.Data.pdb
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\obj\Debug\Arch.Data.csprojResolveAssemblyReference.cache
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\obj\Debug\Arch.Data.Properties.Resources.resources
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\obj\Debug\Arch.Data.csproj.GenerateResource.Cache
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\obj\Debug\Arch.Data.dll
+D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\Arch.Data\obj\Debug\Arch.Data.pdb
