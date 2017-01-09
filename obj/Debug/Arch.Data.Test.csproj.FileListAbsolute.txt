@@ -10,3 +10,6 @@ D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\d
 D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\obj\Debug\Arch.Data.Test.pdb
 D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.MySqlProvider.pdb
 D:\tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\dal-master\doc\Arch.Data.Test\bin\Debug\Arch.Data.pdb
+D:\XYJ\Ctrip-DAL\bin\Debug\Arch.Data.Test.exe.config
+D:\XYJ\Ctrip-DAL\obj\Debug\Arch.Data.Test.exe
+D:\XYJ\Ctrip-DAL\obj\Debug\Arch.Data.Test.pdb
